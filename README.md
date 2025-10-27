@@ -1,16 +1,47 @@
-# React + Vite
+# 🧠 AI Security Battleground
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern interactive learning hub where cybersecurity meets artificial intelligence.  
+Explore missions, earn XP, and level up your AI threat defense skills through guided challenges.
 
-Currently, two official plugins are available:
+![AI Security Hub Preview](./public/preview-dashboard.png)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## 🚀 Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+| Layer | Technology |
+|-------|-------------|
+| **Frontend** | React + Vite |
+| **Styling** | TailwindCSS + Framer Motion |
+| **Routing** | React Router DOM |
+| **Icons** | lucide-react |
+| **Backend / Auth (optional)** | Supabase |
+| **Analytics** | Google Analytics 4 |
+| **Deployment** | Vercel |
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🧩 Features
+
+✅ Interactive mission dashboard  
+✅ Dynamic mission pages with objectives & XP  
+✅ External resource tracking (`LinkOut`)  
+✅ Capstone project integration  
+✅ Responsive & mobile-ready  
+✅ Ready for GA4 + Supabase integration
+
+---
+
+## 📦 Installation & Local Dev
+
+```bash
+# 1. Clone the repo
+git clone https://github.com/<your-username>/ai-security-battleground.git
+cd ai-security-battleground
+
+# 2. Install dependencies
+npm install
+
+# 3. Run locally
+npm run dev
+
