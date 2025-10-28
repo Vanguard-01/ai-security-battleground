@@ -45,3 +45,12 @@ npm install
 # 3. Run locally
 npm run dev
 
+---
+
+## 🛡️ License
+
+This project is licensed under the [MIT License](./LICENSE).
+
+© 2025 JoelT — Built for education, research, and community defense.  
+“Because the future of security belongs to those who understand both code and cognition.”
+
