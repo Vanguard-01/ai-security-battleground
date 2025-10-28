@@ -45,6 +45,8 @@ npm install
 # 3. Run locally
 npm run dev
 
+```
+
 ---
 
 ## 🛡️ License
